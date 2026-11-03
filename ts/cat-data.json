@@ -1,0 +1,14 @@
+{
+  "humans": [
+    { "id": 1, "firstName": "Léa", "lastName": "Martin" },
+    { "id": 2, "firstName": "Tom", "lastName": "Durand" },
+    { "id": 3, "firstName": "Sara", "lastName": "Benali" }
+  ],
+  "cats": [
+    { "id": 1, "name": "Moustache", "ownerId": 1 },
+    { "id": 2, "name": "Felix", "ownerId": 1 },
+    { "id": 3, "name": "Tigrou", "ownerId": 2 },
+    { "id": 4, "name": "Minette" },
+    { "id": 5, "name": "Nala", "ownerId": 99 }
+  ]
+}
